@@ -1,2 +1,2 @@
-# credit_card_pcb
+# credit-card-pcb
 A frame PCB for credit card.
